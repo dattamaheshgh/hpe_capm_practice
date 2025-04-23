@@ -1,0 +1,11 @@
+NODE_KEY,BP_ROLE,EMAIL_ADDRESS,PHONE_NUMBER,BP_ID,COMPANY_NAME
+1001,Supplier,supplier1@company.com,+1-202-555-0143,BP00001,Alpha Supplies Inc.
+1002,Customer,customer2@company.com,+1-202-555-0198,BP00002,Beta Retailers Ltd.
+1003,Vendor,vendor3@company.com,+1-202-555-0120,BP00003,Gamma Traders Co.
+1004,Partner,partner4@company.com,+1-202-555-0175,BP00004,Delta Partners LLC
+1005,Distributor,dist5@company.com,+1-202-555-0111,BP00005,Epsilon Distributors
+1006,Customer,cust6@company.com,+1-202-555-0163,BP00006,Zeta Corp.
+1007,Supplier,supplier7@company.com,+1-202-555-0184,BP00007,Eta Supplies
+1008,Vendor,vendor8@company.com,+1-202-555-0155,BP00008,Theta Ventures
+1009,Partner,partner9@company.com,+1-202-555-0102,BP00009,Iota Global Ltd.
+1010,Distributor,distributor10@company.com,+1-202-555-0190,BP00010,Kappa Distribution
