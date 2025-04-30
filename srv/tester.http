@@ -101,3 +101,5 @@ Content-Type: application/json
     "salaryAmount": 10000000,
     "Currency_code": "USD"
 }
+
+###CI CD build testing
